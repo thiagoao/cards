@@ -9,7 +9,7 @@ defmodule Cards do
   ## Examples
 
       iex> deck = Cards.create_deck
-      iex> Enum.count(deck)
+      iex> length(deck)
       52
 
   """
